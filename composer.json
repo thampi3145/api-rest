@@ -4,7 +4,7 @@
     "version": "1.0.1",
     "license": "Apache-2.0",
     "homepage": "https://github.com/thampi3145/api-rest",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
      "require": {
     "php": ">=5.5.0",
     "guzzlehttp/guzzle": "^6.0",
