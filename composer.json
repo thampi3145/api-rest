@@ -1,7 +1,7 @@
 {
     "name": "ynooxpdf4me/ynooxpdf4me_api_client_php",
     "description": "Api wrapper ynoox",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
      "require": {
     "php": ">=5.5.0",
     "guzzlehttp/guzzle": "^6.0",
