@@ -1,6 +1,7 @@
 {
     "name": "ynooxpdf4me/ynooxpdf4me_api_client_php",
     "description": "Api wrapper ynoox",
+    "version": "1.0.1",
     "license": "Apache-2.0",
     "homepage": "https://github.com/thampi3145/api-rest",
     "minimum-stability": "stable",
